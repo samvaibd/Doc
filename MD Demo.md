@@ -1,92 +1,6 @@
 <div align="center"><h1>MarkDown Documentaion</h1></div>
 
 
-<div align="center"><h2>All syntax</h2></div>
-
----
-
-```
-
-# h1 type-Text
-
-**bold-text** or __boldText__
-
-*italicText*  or _italicText_
-
-***importantText***
-
-**blod plus *italicText text* ** or --blod plus _italic_ text __
-
-~~delteText~~
-
-```
----
-
-` >single line quote `
-
-` \`single line code explain\` `
-
-mupltiple line code expalian
-
-
-```
----
-
-
-<!--
-
-```
-
-\[linkText](linkUrl)
-
-\![imageALtText](imageUrl)
-
-\[iamge](link_url)
-
-\[![imageALtText](iamge_rul)](link_url)
-
-\[![altText](thumnailLink)](youtubeVideoUrl)
-
-for video just drag and drop
-```
----
-
-```
-- list or * list or + list
-
-1. list
-2. list
-3. list
-
-- parentList
-  -childList
-   
-- [x] taskComplete
-- [ ] task incomplete
-
-
-```
----
-
-
-
-`:emojiCode: or copy-paste emoji`
-
-this is footnotes[^1]
-
-[^1]: expalin footnotes
-
-<!-- this comment text will not shown -->
-
-*** or --- or ___ for hr
-
-<div align="center"><h2>custom html code</h2></div>
-
----
-
--->
-
-<!--
 # 1.Heading
 > ### syntax :
 #### `n# <space> Your Text`
@@ -227,9 +141,8 @@ ___
 
 
 https://github.com/samvaibd/Doc/assets/132601342/82256c28-7ffb-4cc0-b273-147e378920d7
--->
 ---
-<!--
+
 > # List
 
 ## UnorderList
@@ -293,8 +206,7 @@ https://github.com/samvaibd/Doc/assets/132601342/82256c28-7ffb-4cc0-b273-147e378
 
 
 ---
--->
-<!--
+
 ## Task List
 
 ```
@@ -307,9 +219,9 @@ https://github.com/samvaibd/Doc/assets/132601342/82256c28-7ffb-4cc0-b273-147e378
 
 - [x] taskComplete
 - [ ] taskIncomplete
--->
 
-<!--
+---
+
 # Emoji
 
 `:emojiCode:`
@@ -327,9 +239,9 @@ https://github.com/samvaibd/Doc/assets/132601342/82256c28-7ffb-4cc0-b273-147e378
 😀 😃 😄 😁 😆 😅 😂 🤣 🥲 🥹 ☺️ 😊 😇 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️
 
 👉 [get emoji](https://getemoji.com/)
--->
 
-<!--
+---
+
 # Footnotes
 
 ### Code :
@@ -354,8 +266,7 @@ This is line 3
 [^1]: line 1 explaination
 
 
--->
-
+---
 
 # Comment
 
@@ -363,10 +274,10 @@ This is line 3
 
 ### output:
 
-
 <!-- Your Text that will not show in preview -->
 
-<!--
+---
+
 # Table
 
 ```
@@ -386,9 +297,7 @@ This is line 3
 | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 | Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
 
--->
-
-<!--
+---
 
 # Horizontal Rule (hr Tag)
 
@@ -399,8 +308,6 @@ This is line 3
 ### output:
 
 ---
-
--->
 
 
 # Custom html Code :
@@ -413,5 +320,5 @@ This is line 3
 
 #### you cannot add any style
 
-
+---
 
